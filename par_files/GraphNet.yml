@@ -1,0 +1,19 @@
+features:
+- atlas1
+- atlas2
+- atlas3
+- atlas4
+- atlas5
+- atlas6
+- atlas7
+- atlas8
+- atlas9
+- atlas10
+- atlas11
+- atlas12
+- dirEmb
+- nodePos
+- numEdges
+- rad
+- totalEL
+net: GraphNet
