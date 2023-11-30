@@ -84,7 +84,7 @@ if __name__ == '__main__':
         # show results on test set for two models (including calibration)
         
         best_model_1 = config.PAR_FILES / 'GCNNet.yml'
-        best_model_2 = config.PAR_FILES / 'GraphNet_atlasdistdir.yml'
+        best_model_2 = config.PAR_FILES / 'GraphNet.yml'
         
         data_1 = run(best_model_1)
         data_2 = run(best_model_2)
